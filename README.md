@@ -21,3 +21,12 @@ src="https://img.shields.io/github/followers/sergiomelladomartin?logo=github&sty
   <a href="https://dev.mysql.com/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="SQL" /></a>
 </p>
 
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/sergiomelladomartin"><img src="https://github-readme-stats.vercel.app/api?username=sergiomelladomartin&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&show_icons=true" alt="gianluisdiana's GitHub stats" /></a>
+
+<a href="http://www.github.com/sergiomelladomartin"><img src="https://activity-graph.herokuapp.com/graph?username=sergiomelladomartin&bg_color=22272e&color=ffffff&line=14b8a6&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<a href="https://github.com/sergiomelladomartin" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomelladomartin&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=14b8a6&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
