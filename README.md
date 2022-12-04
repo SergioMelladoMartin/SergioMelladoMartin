@@ -1,13 +1,14 @@
 Hola!
 
-Me llamo (tu nombre) y soy un desarrollador de software con habilidades en C++, TypeScript, Node.js y MongoDB.
+My name is (your name) and I am a software developer with skills in C++, TypeScript, Node.js, and MongoDB.
 
-<p>He utilizado C++ para desarrollar aplicaciones de escritorio y juegos, como se muestra en la siguiente imagen:</p>
-<img src="https://i.imgur.com/xOq6Ab3.png" alt="Imagen de un juego desarrollado en C++" />
-<p>También he utilizado TypeScript para desarrollar aplicaciones web y móviles utilizando frameworks como Angular y React, como se muestra en la siguiente imagen:</p>
-<img src="https://i.imgur.com/V7vDdG8.png" alt="Imagen de una aplicación móvil desarrollada en TypeScript" />
-<p>Además, tengo experiencia en el desarrollo de aplicaciones de servidor utilizando Node.js, como se muestra en la siguiente imagen:</p>
-<img src="https://i.imgur.com/QjKulZn.png" alt="Imagen de un servidor desarrollado en Node.js" />
-<p>También he trabajado con bases de datos NoSQL como MongoDB para almacenar y recuperar datos de manera eficiente, como se muestra en la siguiente imagen:</p>
-<img src="https://i.imgur.com/Xzv3Vlj.png" alt="Imagen de una base de datos desarrollada en MongoDB" />
-<p>Me encanta aprender nuevas tecnologías y solucionar problemas complejos, y siempre estoy buscando nuevos desafíos y oportunidades de crecimiento en mi carrera. Si estás buscando a un desarrollador con mis habilidades, no dudes en <a href="mailto:(tu email)">ponerte en contacto conmigo</
+<p>I have used C++ to develop desktop applications and games, as shown in the following image:</p>
+<img src="https://i.stack.imgur.com/K0GcZ.png" alt="Image of a game developed in C++" />
+<p>I have also used TypeScript to develop web and mobile applications using frameworks like Angular and React, as shown in the following image:</p>
+<img src="https://miro.medium.com/max/3200/1*9EBHIOzhE1XfMYoKz1JcsQ.png" alt="Image of a mobile app developed in TypeScript" />
+<p>In addition, I have experience in developing server applications using Node.js, as shown in the following image:</p>
+<img src="https://www.tutorialspoint.com/nodejs/images/nodejs-architecture.jpg" alt="Image of a server developed in Node.js" />
+<p>I have also worked with NoSQL databases like MongoDB to store and retrieve data efficiently, as shown in the following image:</p>
+<img src="https://webassets.mongodb.com/_com_assets/cms/MongoDB_Logo_FullColorBlack_RGB-4td3yuxzjs.png" alt="Image of a database developed in MongoDB" />
+<p>I love learning new technologies and solving complex problems, and I am always looking for new challenges and opportunities for growth in my career. If you are looking for a developer with my skills, feel free to <a href="mailto:(your email)">contact me</a>.</p>
+<p>Thank you for your interest in my work!</p>
